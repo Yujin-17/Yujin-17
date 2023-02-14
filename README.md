@@ -48,9 +48,7 @@ Here are some ideas to get you started:
   <br>
   
 	
-  <img src="https://img.shields.io/badge/github-181717??style=plastic&logo=appveyor&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032??style=plastic&logo=appveyor&logo=git&logoColor=white">
-  <br>
+
 </div>
 
 
