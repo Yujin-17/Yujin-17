@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75??style=plastic&logo=appveyor&logo=apachetomcat&logoColor=white">
   <br>
+	<hr>
   
 	
 
