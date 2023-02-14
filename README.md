@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 
 <div align=center><h1>📚 STACKS</h1></div>
+<p align=center>✨ Platforms & Languages ✨</p>
 <div align=center> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3776AB??style=plastic&logo=appveyor&logo=python&logoColor=white"> 
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75??style=plastic&logo=appveyor&logo=apachetomcat&logoColor=white">
   <br>
   
+	
   <img src="https://img.shields.io/badge/github-181717??style=plastic&logo=appveyor&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032??style=plastic&logo=appveyor&logo=git&logoColor=white">
   <br>
