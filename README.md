@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
   <br>
 
-  <img src="https://img.shields.io/badge/linux-FCC624??style=plastic&logo=appveyor&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75??style=plastic&logo=appveyor&logo=apachetomcat&logoColor=white">
   <br>
   
