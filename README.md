@@ -1,3 +1,5 @@
+
+	
 # Hi I'm Yujin👋
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYujin-17&count_bg=%23FC63B3&title_bg=%23E4B1B1&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align=center>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <p align=center>✨ Platforms & Languages ✨</p>
@@ -47,14 +49,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75??style=plastic&logo=appveyor&logo=apachetomcat&logoColor=white">
   <br>
   <hr>
-  
-	
-   
 </div>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujin-17&show_icons=true&theme=monokai)
+	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yujin-17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujin-17&show_icons=true&theme=monokai)
 
