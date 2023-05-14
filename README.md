@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 -->
 <div align=center>
 
-<div align=center><h1>📚 Tech Stack </h1></div>
 <div align=center> 
+	
+📚 **Tech Stack**
 	
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat&logo=&logoColor=white"/>
