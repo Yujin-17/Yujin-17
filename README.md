@@ -1,6 +1,5 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yujin%20GitHub&fontSize=90)
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yujin%20Github&fontSize=90&fontAlignY=40" />
 <!--
 **Yujin-17/Yujin-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
