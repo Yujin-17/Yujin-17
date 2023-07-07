@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/>  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Pinpoint-03C75A?style=flat&logo=&logoColor=white"/>  
 </div>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yujin-17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yujin-17&langs_count=10&layout=compact&theme=dark)](https://github.com/Yujin-17/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujin-17&show_icons=true&theme=radical)
