@@ -30,13 +30,17 @@ Here are some ideas to get you started:
 
 🔩 **DB**
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/Redis (AWS ElastiCache)-005571?style=flat&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis (AWS ElastiCache)-005571?style=flat&logo=&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/>
+
 
 🗜 **DevOps**
 
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS S3-FF9900?style=flat&logo=amazons3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/AWS Application Load Balancer-6DB33F?style=flat&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS Auto Scaling-FF9900?style=flat&logo=&logoColor=white"/>  
-<img src="https://img.shields.io/badge/AWS Code Delploy-6DB33F?style=flat&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub Actions-F05032?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS Code Delploy-6DB33F?style=flat&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub Actions-F05032?style=flat&logo=&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>  
 
 ⚖ **Test**
 
@@ -44,7 +48,8 @@ Here are some ideas to get you started:
 
 🖥 **Monitoring**
 
-<img src="https://img.shields.io/badge/AWS CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/>  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Pinpoint-03C75A?style=flat&logo=&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/>  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pinpoint-03C75A?style=flat&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=Datadog&logoColor=white"/>  
 </div>
 	
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yujin-17&langs_count=10&layout=compact&theme=dark)](https://github.com/Yujin-17/github-readme-stats)
