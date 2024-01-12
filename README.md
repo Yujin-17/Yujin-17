@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align=center> 
 <br>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Yujin-17&theme=kakao)]([https://github.com/loosie/github-readme-tistory-card](https://yujin-17.tistory.com/))
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Yujin-17&theme=kakao)]((https://yujin-17.tistory.com/))
 
 	
 📚 **Tech Stack**
