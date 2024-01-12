@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Binary%20Yujin&theme=kakao)](https://yujin-17.tistory.com/)
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=Yujin-17&postId=default&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
 
 	
 📚 **Tech Stack**
@@ -57,4 +58,4 @@ Here are some ideas to get you started:
 </div>
 	
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yujin-17&langs_count=10&layout=compact&theme=dark)](https://github.com/Yujin-17/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujin-17&show_icons=true&theme=radical)
+[![Yujin-17 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujin-17&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/yujin-17/github-readme-stats)
