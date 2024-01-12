@@ -18,11 +18,18 @@ Here are some ideas to get you started:
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYujin-17&count_bg=%23FC63B3&title_bg=%23E4B1B1&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
 <div align=center> 
 <br>
-
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Binary%20Yujin&theme=kakao)](https://yujin-17.tistory.com/)
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=Yujin-17&postId=default&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
-
+💻 <b>DEV's log</b> 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@yujin-17">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+    <a href="https://Yujin-17.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+	
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yujin-17)](https://github.com/Yujin-17/velog-readme-stats)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=Yujin-17&theme=default)](https://Yujin-17.tistory.com/)
+</div><br>
 	
 📚 **Tech Stack**
 	
@@ -58,4 +65,4 @@ Here are some ideas to get you started:
 </div>
 	
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yujin-17&langs_count=10&layout=compact&theme=dark)](https://github.com/Yujin-17/github-readme-stats)
-[![Yujin-17 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujin-17&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/yujin-17/github-readme-stats)
+[![Yujin-17 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujin-17&include_all_commits=true&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/Yujin-17/github-readme-stats)
