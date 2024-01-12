@@ -27,7 +27,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 	
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yujin-17)](https://github.com/Yujin-17/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yujin-17)](https://velog.io/@yujin-17/posts)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=Yujin-17&theme=default)](https://Yujin-17.tistory.com/)
 </div><br>
 	
