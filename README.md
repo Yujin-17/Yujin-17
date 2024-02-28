@@ -64,5 +64,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Pinpoint-03C75A?style=flat&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=Datadog&logoColor=white"/>  
 </div>
 	
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yujin-17&langs_count=10&layout=compact&theme=dark)](https://github.com/Yujin-17/github-readme-stats)
-[![Yujin-17 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujin-17&include_all_commits=true&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/Yujin-17/github-readme-stats)
