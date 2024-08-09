@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 🔩 **DB**
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis (AWS ElastiCache)-005571?style=flat&logo=&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis (AWS ElastiCache)-005571?style=flat&logo=&logoColor=white"/>
+ <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/>
 
 
 🗜 **DevOps**
